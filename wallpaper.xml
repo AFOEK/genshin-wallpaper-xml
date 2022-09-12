@@ -1,0 +1,2163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<background>
+
+    <static>
+        <duration>10</duration>
+        <file>1.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/1.jpg</from>
+        <to>/usr/share/background/genshin/1.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>3.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/3.jpg</from>
+        <to>/usr/share/background/genshin/3.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>4.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/4.jpg</from>
+        <to>/usr/share/background/genshin/4.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>5.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/5.jpg</from>
+        <to>/usr/share/background/genshin/5.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>6.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/6.jpg</from>
+        <to>/usr/share/background/genshin/6.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>7.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/7.jpg</from>
+        <to>/usr/share/background/genshin/7.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>8.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/8.jpg</from>
+        <to>/usr/share/background/genshin/8.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>9.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/9.jpg</from>
+        <to>/usr/share/background/genshin/9.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>10.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/10.jpg</from>
+        <to>/usr/share/background/genshin/10.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>11.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/11.jpg</from>
+        <to>/usr/share/background/genshin/11.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>12.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/12.jpg</from>
+        <to>/usr/share/background/genshin/12.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>13.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/13.jpg</from>
+        <to>/usr/share/background/genshin/13.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>14.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/14.jpg</from>
+        <to>/usr/share/background/genshin/14.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>15.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/15.jpg</from>
+        <to>/usr/share/background/genshin/15.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>16.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/16.jpg</from>
+        <to>/usr/share/background/genshin/16.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>17.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/17.jpg</from>
+        <to>/usr/share/background/genshin/17.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>18.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/18.jpg</from>
+        <to>/usr/share/background/genshin/18.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>19.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/19.jpg</from>
+        <to>/usr/share/background/genshin/19.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>20.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/20.jpg</from>
+        <to>/usr/share/background/genshin/20.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>21.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/21.jpg</from>
+        <to>/usr/share/background/genshin/21.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>22.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/22.jpg</from>
+        <to>/usr/share/background/genshin/22.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>23.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/23.jpg</from>
+        <to>/usr/share/background/genshin/23.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>24.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/24.jpg</from>
+        <to>/usr/share/background/genshin/24.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>25.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/25.jpg</from>
+        <to>/usr/share/background/genshin/25.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>26.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/26.jpg</from>
+        <to>/usr/share/background/genshin/26.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>27.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/27.jpg</from>
+        <to>/usr/share/background/genshin/27.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>28.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/28.jpg</from>
+        <to>/usr/share/background/genshin/28.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>29.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/29.jpg</from>
+        <to>/usr/share/background/genshin/29.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>30.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/30.jpg</from>
+        <to>/usr/share/background/genshin/30.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>31.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/31.jpg</from>
+        <to>/usr/share/background/genshin/31.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>32.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/32.jpg</from>
+        <to>/usr/share/background/genshin/32.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>33.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/33.jpg</from>
+        <to>/usr/share/background/genshin/33.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>34.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/34.jpg</from>
+        <to>/usr/share/background/genshin/34.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>35.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/35.jpg</from>
+        <to>/usr/share/background/genshin/35.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>36.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/36.jpg</from>
+        <to>/usr/share/background/genshin/36.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>37.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/37.jpg</from>
+        <to>/usr/share/background/genshin/37.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>38.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/38.jpg</from>
+        <to>/usr/share/background/genshin/38.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>39.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/39.jpg</from>
+        <to>/usr/share/background/genshin/39.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>40.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/40.jpg</from>
+        <to>/usr/share/background/genshin/40.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>41.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/41.jpg</from>
+        <to>/usr/share/background/genshin/41.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>42.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/42.jpg</from>
+        <to>/usr/share/background/genshin/42.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>43.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/43.jpg</from>
+        <to>/usr/share/background/genshin/43.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>44.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/44.jpg</from>
+        <to>/usr/share/background/genshin/44.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>45.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/45.jpg</from>
+        <to>/usr/share/background/genshin/45.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>46.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/46.jpg</from>
+        <to>/usr/share/background/genshin/46.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>47.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/47.jpg</from>
+        <to>/usr/share/background/genshin/47.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>48.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/48.jpg</from>
+        <to>/usr/share/background/genshin/48.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>49.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/49.jpg</from>
+        <to>/usr/share/background/genshin/49.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>50.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/50.jpg</from>
+        <to>/usr/share/background/genshin/50.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>51.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/51.jpg</from>
+        <to>/usr/share/background/genshin/51.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>52.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/52.jpg</from>
+        <to>/usr/share/background/genshin/52.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>53.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/53.jpg</from>
+        <to>/usr/share/background/genshin/53.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>54.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/54.jpg</from>
+        <to>/usr/share/background/genshin/54.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>55.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/55.jpg</from>
+        <to>/usr/share/background/genshin/55.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>56.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/56.jpg</from>
+        <to>/usr/share/background/genshin/56.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>57.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/57.jpg</from>
+        <to>/usr/share/background/genshin/57.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>58.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/58.jpg</from>
+        <to>/usr/share/background/genshin/58.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>59.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/59.jpg</from>
+        <to>/usr/share/background/genshin/59.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>60.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/60.jpg</from>
+        <to>/usr/share/background/genshin/60.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>61.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/61.jpg</from>
+        <to>/usr/share/background/genshin/61.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>62.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/62.jpg</from>
+        <to>/usr/share/background/genshin/62.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>63.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/63.jpg</from>
+        <to>/usr/share/background/genshin/63.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>64.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/64.jpg</from>
+        <to>/usr/share/background/genshin/64.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>65.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/65.jpg</from>
+        <to>/usr/share/background/genshin/65.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>66.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/66.jpg</from>
+        <to>/usr/share/background/genshin/66.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>67.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/67.jpg</from>
+        <to>/usr/share/background/genshin/67.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>68.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/68.jpg</from>
+        <to>/usr/share/background/genshin/68.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>69.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/69.jpg</from>
+        <to>/usr/share/background/genshin/69.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>70.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/70.jpg</from>
+        <to>/usr/share/background/genshin/70.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>71.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/71.jpg</from>
+        <to>/usr/share/background/genshin/71.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>72.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/72.jpg</from>
+        <to>/usr/share/background/genshin/72.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>73.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/73.jpg</from>
+        <to>/usr/share/background/genshin/73.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>74.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/74.jpg</from>
+        <to>/usr/share/background/genshin/74.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>75.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/75.jpg</from>
+        <to>/usr/share/background/genshin/75.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>76.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/76.jpg</from>
+        <to>/usr/share/background/genshin/76.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>77.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/77.jpg</from>
+        <to>/usr/share/background/genshin/77.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>78.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/78.jpg</from>
+        <to>/usr/share/background/genshin/78.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>79.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/79.jpg</from>
+        <to>/usr/share/background/genshin/79.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>80.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/80.jpg</from>
+        <to>/usr/share/background/genshin/80.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>81.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/81.jpg</from>
+        <to>/usr/share/background/genshin/81.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>82.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/82.jpg</from>
+        <to>/usr/share/background/genshin/82.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>83.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/83.jpg</from>
+        <to>/usr/share/background/genshin/83.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>84.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/84.jpg</from>
+        <to>/usr/share/background/genshin/84.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>85.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/85.jpg</from>
+        <to>/usr/share/background/genshin/85.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>86.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/86.jpg</from>
+        <to>/usr/share/background/genshin/86.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>87.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/87.jpg</from>
+        <to>/usr/share/background/genshin/87.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>88.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/88.jpg</from>
+        <to>/usr/share/background/genshin/88.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>89.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/89.jpg</from>
+        <to>/usr/share/background/genshin/89.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>90.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/90.jpg</from>
+        <to>/usr/share/background/genshin/90.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>91.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/91.jpg</from>
+        <to>/usr/share/background/genshin/91.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>92.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/92.jpg</from>
+        <to>/usr/share/background/genshin/92.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>93.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/93.jpg</from>
+        <to>/usr/share/background/genshin/93.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>94.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/94.jpg</from>
+        <to>/usr/share/background/genshin/94.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>95.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/95.jpg</from>
+        <to>/usr/share/background/genshin/95.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>96.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/96.jpg</from>
+        <to>/usr/share/background/genshin/96.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>97.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/97.jpg</from>
+        <to>/usr/share/background/genshin/97.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>98.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/98.jpg</from>
+        <to>/usr/share/background/genshin/98.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>99.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/99.jpg</from>
+        <to>/usr/share/background/genshin/99.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>100.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/100.jpg</from>
+        <to>/usr/share/background/genshin/100.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>101.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/101.jpg</from>
+        <to>/usr/share/background/genshin/101.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>102.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/102.jpg</from>
+        <to>/usr/share/background/genshin/102.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>103.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/103.jpg</from>
+        <to>/usr/share/background/genshin/103.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>104.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/104.jpg</from>
+        <to>/usr/share/background/genshin/104.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>105.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/105.jpg</from>
+        <to>/usr/share/background/genshin/105.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>106.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/106.jpg</from>
+        <to>/usr/share/background/genshin/106.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>107.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/107.jpg</from>
+        <to>/usr/share/background/genshin/107.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>108.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/108.jpg</from>
+        <to>/usr/share/background/genshin/108.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>109.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/109.jpg</from>
+        <to>/usr/share/background/genshin/109.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>110.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/110.jpg</from>
+        <to>/usr/share/background/genshin/110.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>111.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/111.jpg</from>
+        <to>/usr/share/background/genshin/111.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>112.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/112.jpg</from>
+        <to>/usr/share/background/genshin/112.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>113.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/113.jpg</from>
+        <to>/usr/share/background/genshin/113.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>114.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/114.jpg</from>
+        <to>/usr/share/background/genshin/114.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>115.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/115.jpg</from>
+        <to>/usr/share/background/genshin/115.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>116.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/116.jpg</from>
+        <to>/usr/share/background/genshin/116.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>117.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/117.jpg</from>
+        <to>/usr/share/background/genshin/117.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>118.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/118.jpg</from>
+        <to>/usr/share/background/genshin/118.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>119.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/119.jpg</from>
+        <to>/usr/share/background/genshin/119.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>120.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/120.jpg</from>
+        <to>/usr/share/background/genshin/120.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>121.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/121.jpg</from>
+        <to>/usr/share/background/genshin/121.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>122.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/122.jpg</from>
+        <to>/usr/share/background/genshin/122.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>123.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/123.jpg</from>
+        <to>/usr/share/background/genshin/123.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>124.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/124.jpg</from>
+        <to>/usr/share/background/genshin/124.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>125.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/125.jpg</from>
+        <to>/usr/share/background/genshin/125.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>126.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/126.jpg</from>
+        <to>/usr/share/background/genshin/126.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>127.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/127.jpg</from>
+        <to>/usr/share/background/genshin/127.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>128.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/128.jpg</from>
+        <to>/usr/share/background/genshin/128.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>129.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/129.jpg</from>
+        <to>/usr/share/background/genshin/129.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>130.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/130.jpg</from>
+        <to>/usr/share/background/genshin/130.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>131.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/131.jpg</from>
+        <to>/usr/share/background/genshin/131.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>132.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/132.jpg</from>
+        <to>/usr/share/background/genshin/132.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>133.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/133.jpg</from>
+        <to>/usr/share/background/genshin/133.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>134.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/134.jpg</from>
+        <to>/usr/share/background/genshin/134.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>135.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/135.jpg</from>
+        <to>/usr/share/background/genshin/135.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>136.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/136.jpg</from>
+        <to>/usr/share/background/genshin/136.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>137.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/137.jpg</from>
+        <to>/usr/share/background/genshin/137.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>138.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/138.jpg</from>
+        <to>/usr/share/background/genshin/138.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>139.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/139.jpg</from>
+        <to>/usr/share/background/genshin/139.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>140.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/140.jpg</from>
+        <to>/usr/share/background/genshin/140.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>141.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/141.jpg</from>
+        <to>/usr/share/background/genshin/141.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>142.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/142.jpg</from>
+        <to>/usr/share/background/genshin/142.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>143.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/143.jpg</from>
+        <to>/usr/share/background/genshin/143.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>144.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/144.jpg</from>
+        <to>/usr/share/background/genshin/144.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>145.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/145.jpg</from>
+        <to>/usr/share/background/genshin/145.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>146.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/146.jpg</from>
+        <to>/usr/share/background/genshin/146.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>147.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/147.jpg</from>
+        <to>/usr/share/background/genshin/147.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>148.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/148.jpg</from>
+        <to>/usr/share/background/genshin/148.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>149.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/149.jpg</from>
+        <to>/usr/share/background/genshin/149.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>150.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/150.jpg</from>
+        <to>/usr/share/background/genshin/150.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>151.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/151.jpg</from>
+        <to>/usr/share/background/genshin/151.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>152.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/152.jpg</from>
+        <to>/usr/share/background/genshin/152.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>153.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/153.jpg</from>
+        <to>/usr/share/background/genshin/153.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>154.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/154.jpg</from>
+        <to>/usr/share/background/genshin/154.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>155.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/155.jpg</from>
+        <to>/usr/share/background/genshin/155.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>156.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/156.jpg</from>
+        <to>/usr/share/background/genshin/156.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>157.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/157.jpg</from>
+        <to>/usr/share/background/genshin/157.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>158.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/158.jpg</from>
+        <to>/usr/share/background/genshin/158.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>159.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/159.jpg</from>
+        <to>/usr/share/background/genshin/159.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>160.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/160.jpg</from>
+        <to>/usr/share/background/genshin/160.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>161.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/161.jpg</from>
+        <to>/usr/share/background/genshin/161.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>162.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/162.jpg</from>
+        <to>/usr/share/background/genshin/162.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>163.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/163.jpg</from>
+        <to>/usr/share/background/genshin/163.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>164.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/164.jpg</from>
+        <to>/usr/share/background/genshin/164.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>165.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/165.jpg</from>
+        <to>/usr/share/background/genshin/165.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>166.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/166.jpg</from>
+        <to>/usr/share/background/genshin/166.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>167.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/167.jpg</from>
+        <to>/usr/share/background/genshin/167.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>168.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/168.jpg</from>
+        <to>/usr/share/background/genshin/168.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>169.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/169.jpg</from>
+        <to>/usr/share/background/genshin/169.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>170.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/170.jpg</from>
+        <to>/usr/share/background/genshin/170.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>171.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/171.jpg</from>
+        <to>/usr/share/background/genshin/171.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>172.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/172.jpg</from>
+        <to>/usr/share/background/genshin/172.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>173.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/173.jpg</from>
+        <to>/usr/share/background/genshin/173.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>174.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/174.jpg</from>
+        <to>/usr/share/background/genshin/174.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>175.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/175.jpg</from>
+        <to>/usr/share/background/genshin/175.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>176.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/176.jpg</from>
+        <to>/usr/share/background/genshin/176.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>177.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/177.jpg</from>
+        <to>/usr/share/background/genshin/177.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>178.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/178.jpg</from>
+        <to>/usr/share/background/genshin/178.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>179.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/179.jpg</from>
+        <to>/usr/share/background/genshin/179.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>180.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/180.jpg</from>
+        <to>/usr/share/background/genshin/180.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>181.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/181.jpg</from>
+        <to>/usr/share/background/genshin/181.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>182.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/182.jpg</from>
+        <to>/usr/share/background/genshin/182.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>183.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/183.jpg</from>
+        <to>/usr/share/background/genshin/183.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>184.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/184.jpg</from>
+        <to>/usr/share/background/genshin/184.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>185.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/185.jpg</from>
+        <to>/usr/share/background/genshin/185.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>186.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/186.jpg</from>
+        <to>/usr/share/background/genshin/186.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>187.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/187.jpg</from>
+        <to>/usr/share/background/genshin/187.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>188.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/188.jpg</from>
+        <to>/usr/share/background/genshin/188.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>189.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/189.jpg</from>
+        <to>/usr/share/background/genshin/189.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>190.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/190.jpg</from>
+        <to>/usr/share/background/genshin/190.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>191.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/191.jpg</from>
+        <to>/usr/share/background/genshin/191.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>192.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/192.jpg</from>
+        <to>/usr/share/background/genshin/192.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>193.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/193.jpg</from>
+        <to>/usr/share/background/genshin/193.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>194.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/194.jpg</from>
+        <to>/usr/share/background/genshin/194.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>195.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/195.jpg</from>
+        <to>/usr/share/background/genshin/195.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>196.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/196.jpg</from>
+        <to>/usr/share/background/genshin/196.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>197.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/197.jpg</from>
+        <to>/usr/share/background/genshin/197.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>198.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/198.jpg</from>
+        <to>/usr/share/background/genshin/198.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>199.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/199.jpg</from>
+        <to>/usr/share/background/genshin/199.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>200.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/200.jpg</from>
+        <to>/usr/share/background/genshin/200.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>201.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/201.jpg</from>
+        <to>/usr/share/background/genshin/201.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>202.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/202.jpg</from>
+        <to>/usr/share/background/genshin/202.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>203.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/203.jpg</from>
+        <to>/usr/share/background/genshin/203.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>204.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/204.jpg</from>
+        <to>/usr/share/background/genshin/204.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>205.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/205.jpg</from>
+        <to>/usr/share/background/genshin/205.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>206.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/206.jpg</from>
+        <to>/usr/share/background/genshin/206.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>207.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/207.jpg</from>
+        <to>/usr/share/background/genshin/207.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>208.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/208.jpg</from>
+        <to>/usr/share/background/genshin/208.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>209.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/209.jpg</from>
+        <to>/usr/share/background/genshin/209.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>210.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/210.jpg</from>
+        <to>/usr/share/background/genshin/210.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>211.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/211.jpg</from>
+        <to>/usr/share/background/genshin/211.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>212.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/212.jpg</from>
+        <to>/usr/share/background/genshin/212.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>213.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/213.jpg</from>
+        <to>/usr/share/background/genshin/213.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>214.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/214.jpg</from>
+        <to>/usr/share/background/genshin/214.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>215.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/215.jpg</from>
+        <to>/usr/share/background/genshin/215.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>216.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/216.jpg</from>
+        <to>/usr/share/background/genshin/216.jpg</to>
+    </transition>
+
+    <static>
+        <duration>10</duration>
+        <file>217.jpg</file>
+    </static>
+    <transition>
+        <duration>5</duration>
+        <from>/usr/share/background/genshin/217.jpg</from>
+        <to>/usr/share/background/genshin/217.jpg</to>
+    </transition>
+</background>
